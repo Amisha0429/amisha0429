@@ -7,4 +7,4 @@
   - [Linkedin](https://www.linkedin.com/in/amisha-bavineni-617711225/)
   - [e-mail](mailto:amisha.ruwais@gmail.com)
 
-* Visit my Portfolio site: [Click Here](https://amisha.github.io/)
+* Visit my Portfolio site: [Click Here](https://amisha0429.github.io/)
