@@ -1,5 +1,5 @@
 - Hi, I’m Amisha !
-- A sophomore BSc Computer Science student at the University of Alberta.
+- A sophomore BSc in Computer Science student at the University of Alberta.
 - I’m looking to collaborate on Computer Science projects and gain valuable experience in the industry.
 
 * Contact me:
